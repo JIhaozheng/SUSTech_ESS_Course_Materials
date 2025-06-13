@@ -3,6 +3,8 @@
 ## Course Overview
 
 **Instructor:** Prof. Peng Han  
+**Email:** hanp@sustech.edu.cn
+**Office:** College of Science, Room E3136
 **Main Focus:** Signal Processing
 
 Although the course title mentions both *signal processing* and *data analysis*, it mainly focuses on signal processing. In my opinion, **data analysis is more important** for us, but it's only briefly mentioned and not much tested in the final.
