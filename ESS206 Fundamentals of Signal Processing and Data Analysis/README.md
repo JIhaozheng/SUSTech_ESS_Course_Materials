@@ -16,6 +16,15 @@ I’ve prepared some materials to help with the key concepts:
 
 These are useful if you want to understand the theory behind or before the course.
 
+## Homework Notes
+
+There are **8 homework assignments** in total.
+
+- **Homework #5** is about signal fitting using **Fourier series**.  
+  Since the content overlaps with the code and explanations in `From_Data_Fitting_to_Integral_Transforms.pdf`, it is **not included separately** in this repo.
+
+Understanding all the homework problems is key to doing well in the course.
+
 ## Exam Tips
 
 - The **final exam is almost entirely based on the homework**.
