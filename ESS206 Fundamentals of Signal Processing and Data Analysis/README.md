@@ -1,41 +1,54 @@
-# ESS206: Fundamentals of Signal Processing and Data Analysis
+# 📡 ESS206: Fundamentals of Signal Processing and Data Analysis 🎶📈
 
-## Course Overview
+## 👨‍🏫 Course Overview
 
-**Instructor:** Prof. Peng Han  
+**Instructor:** Prof. Peng Han 👨‍🔬  
+**Email:** ✉️ hanp@sustech.edu.cn  
+**Office:** 🏢 College of Science, Room E3136  
 
-**Email:** hanp@sustech.edu.cn
+### 🎯 Main Focus: Signal Processing
 
-**Office:** College of Science, Room E3136
+Although the course title mentions both *signal processing* and *data analysis* 🧠📉, it mainly focuses on **signal processing** 🔊📐.  
+In my opinion, **data analysis is more important** for us 🤷‍♂️💻 — but it’s only briefly mentioned and doesn’t appear much in the final exam 😤📄.
 
-**Main Focus:** Signal Processing
+---
 
-Although the course title mentions both *signal processing* and *data analysis*, it mainly focuses on signal processing. In my opinion, **data analysis is more important** for us, but it's only briefly mentioned and not much tested in the final.
+## 📚 Study Resources
 
-## Study Resources
+I’ve prepared some handy materials to help with key concepts 📖🛠️:
 
-I’ve prepared some materials to help with the key concepts:
+- [`From_Data_Fitting_to_Integral_Transforms.pdf`](https://github.com/JIhaozheng/SUSTech_ESS_Course_Materials/blob/main/ESS206%20Fundamentals%20of%20Signal%20Processing%20and%20Data%20Analysis/presentation/From_Data_Fitting_to_Integral_Transforms.pdf)  
+  🧾 My second presentation — explains **Laplace Transforms** ⚙️ and **Fourier Transforms** 🎵 in detail.
 
-- [`From_Data_Fitting_to_Integral_Transforms.pdf`](https://github.com/JIhaozheng/SUSTech_ESS_Course_Materials/blob/main/ESS206%20Fundamentals%20of%20Signal%20Processing%20and%20Data%20Analysis/presentation/From_Data_Fitting_to_Integral_Transforms.pdf): My second presentation. It explains **Laplace Transforms** and **Fourier Transforms** in detail.
-- [`Fundamentals_of_Signal_Processing_and_Data_Analysis_Homework_4.pdf`](https://github.com/JIhaozheng/SUSTech_ESS_Course_Materials/blob/main/ESS206%20Fundamentals%20of%20Signal%20Processing%20and%20Data%20Analysis/homework/Fundamentals_of_Signal_Processing_and_Data_Analysis_Homework_4.pdf): The $3rd$ section provides a step-by-step explanation of the **Gibbs Phenomenon**.
+- [`Fundamentals_of_Signal_Processing_and_Data_Analysis_Homework_4.pdf`](https://github.com/JIhaozheng/SUSTech_ESS_Course_Materials/blob/main/ESS206%20Fundamentals%20of%20Signal%20Processing%20and%20Data%20Analysis/homework/Fundamentals_of_Signal_Processing_and_Data_Analysis_Homework_4.pdf)  
+  📌 Section 3 offers a step-by-step guide to the **Gibbs Phenomenon** 🎢.
 
-These are useful if you want to understand the theory behind or before the course.
+📎 These are super useful if you want to get ahead or review before class 💡🚀.
 
-## Homework Notes
+---
 
-There are **8 homework assignments** in total.
+## 📝 Homework Notes
 
-- **Homework #5** is about signal fitting using **Fourier series**.  
-  Since the content overlaps with the code and explanations in `From_Data_Fitting_to_Integral_Transforms.pdf`, it is **not included separately** in this repo.
+There are **8 homework assignments** in total 📋✍️.
 
-Understanding all the homework problems is key to doing well in the course.
+- 🧩 **Homework #5** is about **signal fitting** using **Fourier series** 🎼.  
+  It overlaps with the presentation above, so it's **not separately included** in this repo 🔄📂.
 
-## Exam Tips
+✅ Pro tip: Understand all the homework problems — that’s the **key to survival** in this course 🔑🧠.
 
-- The **final exam is almost entirely based on the homework**.
-- If you study the homework carefully, you can get a good grade.
-- If you know **Calculus II**, about **10 hours of review before the final** should be enough, trust me.
+---
 
-## Final Thoughts
+## 🎓 Exam Tips
 
-This course is easy to pass, but if you want to fully understand signal and system, it takes much more time and effort.
+- The **final exam is almost entirely homework-based** 🔁📘.
+- If you’ve done the homework seriously, you're golden 💪💯.
+- Know **Calculus II**? Then **~10 hours of review** before the final should be enough 😌📚⏳ (yes, really).
+
+---
+
+## 💬 Final Thoughts
+
+This course is **easy to pass** ✅😎  
+But if you want to *really* understand signals and systems 🔍🧠, be ready to invest **a lot more time and effort** 💼📈.
+
+Good luck and may your signals always be smooth and noise-free! 📡✨📊
