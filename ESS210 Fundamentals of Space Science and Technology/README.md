@@ -20,7 +20,7 @@ He’s a **thoughtful**, **serious**, and **super approachable** professor 🧑�
 
 ---
 
-## 🧠📖 Study Resources
+## 🧠📚 Study Tips & Tricks
 
 Wanna *actually* learn something? 👉 Then **follow the lecture closely** 👂👀  
 But heads-up: Prof. Liu explains space phenomena using only basic physics 🧪🧲.  
@@ -63,16 +63,21 @@ Still survivable tho 😤💪
 ---
 
 ### 🧨 Final Exam  
-**A total boss battle.** 😵‍💫  
-All open-ended questions 📝 — first 5? I was thinking 🧠💡  
+**A total boss battle.** 😵‍💫💥  
+All open-ended questions 📝 — for the first 5, I was thinking clearly 🧠💡  
 Then suddenly? **PANIC MODE** 😱⏰  
 No time to think, just *type and pray* 🤖✍️🙏
 
-ChatGPT could’ve saved me, but guess what? **My Plus expired the day before** 😭💔  
-I knew GPT's answer was wrong ❌🤖 but I couldn’t find the slides 📂📉  
-So I wrote *something*... anything... and hoped for mercy 🫠🛐
+ChatGPT could’ve saved me… but guess what? **My Plus expired the day before** 😭💔  
+I *knew* GPT’s answer was wrong ❌🤖, but I couldn’t find the slides 📂📉  
+So I just wrote *something*… anything… and hoped for mercy 🫠🛐
 
-**Dear Prof. Liu: please don’t fail me 🙇‍♂️🍵**
+By the end, I was finishing questions in like 10 minutes each ⌛💨  
+Eventually, I found a life-saving hack:  
+> “Hi GPT! Please summarize the key points in under 200 words.”  
+💡 This trick helped me fill in the blanks just in time 🧾⚡
+
+**Dear Prof. Liu: Please don’t fail me. 🙇‍♂️🍵 
 
 ---
 
