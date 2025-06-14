@@ -10,7 +10,7 @@
 
 **Main Focus:** Signal Processing
 
-Although the course title mentions both *signal processing* and *data analysis*, it mainly focuses on signal processing. In my opinion, **data analysis is more important** for us, but it's only briefly mentioned and not much tested in the final.
+Although the course title mentions both *signal processing* and *data analysis*, it mainly focuses on signal processing. In my opinion, [**data analysis is more important**] (ESS206 Fundamentals of Signal Processing and Data Analysis/presentation/From_Data_Fitting_to_Integral_Transforms.pdf)for us, but it's only briefly mentioned and not much tested in the final.
 
 ## Study Resources
 
