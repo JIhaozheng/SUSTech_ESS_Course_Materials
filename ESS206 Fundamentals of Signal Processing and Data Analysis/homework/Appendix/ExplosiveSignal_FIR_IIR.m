@@ -1,4 +1,4 @@
-%% The High-Frequency Explosive Signal 
+%% The High-Frequency Explosive Signal
 clc; clear; load kerl030916ud.txt
 Fs = 50; dt = 1/Fs;
 wp = 1.5*2/Fs; ws = 2.5*2/Fs;
