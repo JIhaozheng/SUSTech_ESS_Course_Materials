@@ -4,7 +4,7 @@
 
 **Instructor:** Prof. Peng Han 👨‍🔬  
 **Email:** ✉️ youknow
-**Office:** 🏢 College of Science, Room he will tell you
+**Office:** 🏢 College of Science, Room **he will tell you**
 
 ### 🎯 Main Focus: Signal Processing
 
