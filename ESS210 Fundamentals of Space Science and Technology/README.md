@@ -8,10 +8,15 @@
 
 ### 📚 What’s this course about?
 
-Honestly? I don't know. 🤷‍♂️😂  
-Midterm and final are **open book/tests** 📖💻 — and yes, **ChatGPT is allowed** 🙌🧠  
-Actually, I wrote this README with GPT’s help. Big brain energy 🧠⚡
+Honestly? I don’t really know. 🤷‍♂️😂  
+The midterm and final are **open book/tests** 📖💻 — and yes, **ChatGPT is allowed** 🙌🧠  
+(Actually, I wrote this README with GPT’s help. Big brain energy 🧠⚡)
+
 So... yeah, I may have done a little *touching fish* 🐟🫣 during lectures.
+
+That said, Prof. Liu often shares some cool stories about **microsatellites** 🛰️ and his own research experience 🌌🔬.  
+You can talk to him *anytime* — whether it’s questions about the course or just random science talk. 🗣️☕  
+He’s a **thoughtful**, **serious**, and **super approachable** professor 🧑‍🏫💬. Always happy to chat if you show genuine curiosity!
 
 ---
 
