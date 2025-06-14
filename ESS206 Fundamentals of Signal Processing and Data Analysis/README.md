@@ -18,10 +18,11 @@ In my opinion, **data analysis is more important** for us 🤷‍♂️💻 — 
 I’ve prepared some handy materials to help with key concepts 📖🛠️:
 
 - [`From_Data_Fitting_to_Integral_Transforms.pdf`](https://github.com/JIhaozheng/SUSTech_ESS_Course_Materials/blob/main/ESS206%20Fundamentals%20of%20Signal%20Processing%20and%20Data%20Analysis/presentation/From_Data_Fitting_to_Integral_Transforms.pdf)  
-  🧾 My second presentation — explains **Laplace Transforms** ⚙️ and **Fourier Transforms** 🎵 in detail.
+🧾 My $2nd$ presentation — explains **Laplace Transforms** ⚙️ and **Fourier Transforms** 🎵 in detail.  
+📄 I’ve also attached a **Chinese version** 🀄 for better understanding if needed!
 
 - [`Fundamentals_of_Signal_Processing_and_Data_Analysis_Homework_4.pdf`](https://github.com/JIhaozheng/SUSTech_ESS_Course_Materials/blob/main/ESS206%20Fundamentals%20of%20Signal%20Processing%20and%20Data%20Analysis/homework/Fundamentals_of_Signal_Processing_and_Data_Analysis_Homework_4.pdf)  
-  📌 Section 3 offers a step-by-step guide to the **Gibbs Phenomenon** 🎢.
+  📌 $3rd$ Section offers a step-by-step guide to the **Gibbs Phenomenon** 🎢.
 
 📎 These are super useful if you want to get ahead or review before class 💡🚀.
 
