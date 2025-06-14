@@ -77,7 +77,7 @@ Eventually, I found a life-saving hack:
 > “Hi GPT! Please summarize the key points in under 200 words.”  
 💡 This trick helped me fill in the blanks just in time 🧾⚡
 
-**Dear Prof. Liu: Please don’t fail me. 🙇‍♂️🍵 
+**Dear** Prof. Liu: Please don’t fail me. 🙇‍♂️🍵 
 
 ---
 
