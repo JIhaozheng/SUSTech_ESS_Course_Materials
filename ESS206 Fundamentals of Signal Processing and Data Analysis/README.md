@@ -3,8 +3,8 @@
 ## 👨‍🏫 Course Overview
 
 **Instructor:** Prof. Peng Han 👨‍🔬  
-**Email:** ✉️ hanp@sustech.edu.cn  
-**Office:** 🏢 College of Science, Room E3136  
+**Email:** ✉️ youknow
+**Office:** 🏢 College of Science, Room he will tell you
 
 ### 🎯 Main Focus: Signal Processing
 
