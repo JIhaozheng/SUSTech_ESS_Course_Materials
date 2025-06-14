@@ -10,13 +10,13 @@
 
 **Main Focus:** Signal Processing
 
-Although the course title mentions both *signal processing* and *data analysis*, it mainly focuses on signal processing. In my opinion, [**data analysis is more important**] (ESS206 Fundamentals of Signal Processing and Data Analysis/presentation/From_Data_Fitting_to_Integral_Transforms.pdf)for us, but it's only briefly mentioned and not much tested in the final.
+Although the course title mentions both *signal processing* and *data analysis*, it mainly focuses on signal processing. In my opinion, **data analysis is more important** for us, but it's only briefly mentioned and not much tested in the final.
 
 ## Study Resources
 
 I’ve prepared some materials to help with the key concepts:
 
-- `From_Data_Fitting_to_Integral_Transforms.pdf`: My second presentation. It explains **Laplace Transforms** and **Fourier Transforms** in detail.
+- [From_Data_Fitting_to_Integral_Transforms.pdf](ESS206%20Fundamentals%20of%20Signal%20Processing%20and%20Data%20Analysis/presentation/From_Data_Fitting_to_Integral_Transforms.pdf): My second presentation. It explains **Laplace Transforms** and **Fourier Transforms** in detail.
 - `Fundamentals_of_Signal_Processing_and_Data_Analysis_Homework_4.pdf`: A step-by-step explanation of the **Gibbs Phenomenon**.
 
 These are useful if you want to understand the theory behind or before the course.
