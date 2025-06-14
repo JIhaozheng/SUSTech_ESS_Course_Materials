@@ -3,8 +3,8 @@
 ## 👨‍🏫 Course Overview
 
 **Instructor:** Prof. Kaijun Liu 👨‍🔬  
-**Email:** 📧 liukj@sustech.edu.cn  
-**Office:** 🏢 College of Science, Room E5142  
+**Email:** ✉️ youknow
+**Office:** 🏢 College of Science, Room **he will tell you**
 
 ### 📚 What’s this course about?
 
