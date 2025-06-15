@@ -54,7 +54,7 @@ But also... **thank you, Prof.** 🙏🌟💐
 
 ### 🔥 Midterm  
 Open test = no worries, right? 😌📘  
-Well... the TA is from **department of physics** 🧠🔬 — and graded like a **dark souls boss** 💀🛡️  
+Well... the TA is graduated from **department of physics** 🧠🔬 — and graded like a **dark souls boss** 💀🛡️  
 - Median: 78  
 - Average: 77.875  
 
@@ -69,7 +69,7 @@ Then suddenly? **PANIC MODE** 😱⏰
 No time to think, just *type and pray* 🤖✍️🙏
 
 ChatGPT could’ve saved me… but guess what? **My Plus expired the day before** 😭💔  
-I *knew* GPT’s answer was wrong ❌🤖, but I couldn’t find the slides 📂📉  
+I *knew* GPT’s answer was wrong ❌🤖, but I couldn’t find the right slides 📂📉  
 So I just wrote *something*… anything… and hoped for mercy 🫠🛐
 
 By the end, I was finishing questions in like 10 minutes each ⌛💨  
