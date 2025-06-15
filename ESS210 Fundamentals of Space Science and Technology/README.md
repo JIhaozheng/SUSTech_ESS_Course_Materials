@@ -14,7 +14,7 @@ The midterm and final are **open book/tests** 📖💻 — and yes, **ChatGPT is
 
 So... yeah, I may have done a little *touching fish* 🐟🫣 during lectures.
 
-That said, Prof. Liu often shares some cool stories about **microsatellites** 🛰️ and his own research experience 🌌🔬.  
+That said, Prof. Liu often shares some cool stories about **microsatellites** 🛰️ and his own research experience 🌌🔭.  
 You can talk to him *anytime* — whether it’s questions about the course or just random science talk. 🗣️☕  
 He’s a **thoughtful**, **serious**, and **super approachable** professor 🧑‍🏫💬. Always happy to chat if you show genuine curiosity!
 
@@ -54,7 +54,7 @@ But also... **thank you, Prof.** 🙏🌟💐
 
 ### 🔥 Midterm  
 Open test = no worries, right? 😌📘  
-Well... the TA is graduated from **department of physics** 🧠🔬 — and graded like a **dark souls boss** 💀🛡️  
+Well... the TA is graduated from **department of physics** 🧠📡 — and graded like a **dark souls boss** 💀🛡️  
 - Median: 78  
 - Average: 77.875  
 
