@@ -4,9 +4,9 @@
 
 - Fundamentals of Space Science and Technology 🚀
 
-📌 Coming soon:
-
 - Planetary Science 🦍
+
+📌 Coming soon:
 
 - Continuum Mechanics 🌀
 
