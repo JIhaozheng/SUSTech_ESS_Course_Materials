@@ -4,7 +4,7 @@
 
 - Fundamentals of Space Science and Technology 🚀
 
-- Planetary Science 🦍
+- Planetary Science 🪐
 
 📌 Coming soon:
 
