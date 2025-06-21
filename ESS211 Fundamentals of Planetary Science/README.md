@@ -64,9 +64,14 @@ I picked:
 Honestly? It was exhausting, but **totally worth it**.  
 If you're passionate about a topic, be ready to invest time and energy. 🔥⏳
 
----
+The final includes:
+- ✍️ **Short answer questions** covering basic concepts — no hot topics or curveballs,  — which means you should review everything on the slides, because anything could show up.
+- 🧮 **Calculation questions**, so be sure to master:
+  - **Hill sphere**
+  - **Roche limit**
+  - **Lagrangian points**
+  - **Hydrostatic equilibrium** used to estimate pressure/density
+  - **Two-layer model** used to calculate the moment of inertia and mass
+  - **Gravitational potential (J₂ term)** and planetary oblateness
 
-## 💭 Final Thoughts
-
-
-
+This exam is a good opportunity to **review and preview** the whole course.
