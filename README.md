@@ -8,7 +8,12 @@
 
 📌 Coming soon:
 
-- Continuum Mechanics 🌀
-
 - Applied Geophysics ⛏️
+  
+- Computional Methods 🖩
+  
+- AI and Mechine Learning 🖧
+  
+- Principles of seismology 📈
+  
 - 
