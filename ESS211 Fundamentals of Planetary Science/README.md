@@ -2,7 +2,7 @@
 
 ## 👨‍🏫 Course Overview
 
-**Instructor:** Prof. Yufeng Lin 👨‍🔬  
+**Instructor:** Prof. Yf Lin 👨‍🔬  
 **Email:** ✉️ **youknow**  
 **Office:** 🏢 College of Science, Room **he will tell you**
 
