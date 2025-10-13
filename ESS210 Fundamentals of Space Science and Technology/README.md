@@ -2,7 +2,7 @@
 
 ## 👨‍🏫 Course Overview
 
-**Instructor:** Prof. Kaijun Liu 👨‍🔬  
+**Instructor:** Prof. Kj Liu 👨‍🔬  
 **Email:** ✉️ **youknow**  
 **Office:** 🏢 College of Science, Room **he will tell you**
 
