@@ -8,12 +8,12 @@
 
 📌 Coming soon:
 
-- Applied Geophysics ⛏️
-  
 - Computional Methods 🖩
   
 - AI and Mechine Learning 🖧
   
 - Principles of seismology 📈
   
+- Applied Geophysics ⛏️
+
 - 
