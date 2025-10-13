@@ -2,7 +2,7 @@
 
 ## 👨‍🏫 Course Overview
 
-**Instructor:** Prof. Peng Han 👨‍🔬  
+**Instructor:** Prof. P Han 👨‍🔬  
 **Email:** ✉️ **youknow**  
 **Office:** 🏢 College of Science, Room **he will tell you**
 
