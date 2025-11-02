@@ -6,6 +6,8 @@
 
 - Planetary Science 🪐
 
+- Geophysical Field Trip ⚒️
+
 📌 Coming soon:
 
 - Computional Methods 🖩
