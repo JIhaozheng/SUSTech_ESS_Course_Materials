@@ -6,7 +6,7 @@
 
 - Planetary Science 🪐
 
-- Geophysical Field Trip ⚒️
+- Geophysical Field Trip 👷🏼‍♂
 
 📌 Coming soon:
 
