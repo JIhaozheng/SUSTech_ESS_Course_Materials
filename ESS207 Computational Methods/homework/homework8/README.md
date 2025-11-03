@@ -1,0 +1,2 @@
+- Gauss-Legendre Quadrature
+- Gauss-Chebyshev Quadrature
