@@ -1,0 +1,2 @@
+- Linear Interpolation
+- Quadratic Interpolation
