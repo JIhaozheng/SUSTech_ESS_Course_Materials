@@ -1,0 +1,2 @@
+- Gauss-Newton method
+- Levenberg-Marquardt method
