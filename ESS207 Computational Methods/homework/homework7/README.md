@@ -1,0 +1,2 @@
+- Simpson Rule
+- Adaptive Simpson Quadrature
