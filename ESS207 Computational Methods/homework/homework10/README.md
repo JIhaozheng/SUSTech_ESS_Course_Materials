@@ -1,0 +1,4 @@
+- Bisection method
+- Fixed-point method
+- Newton method
+- secant method
