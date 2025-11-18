@@ -1,11 +1,5 @@
 # 🌌 ESS210: Fundamentals of Space Science and Technology 🚀🛸
 
-## 👨‍🏫 Course Overview
-
-**Instructor:** Prof. Kj Liu 👨‍🔬  
-**Email:** ✉️ **youknow**  
-**Office:** 🏢 College of Science, Room **he will tell you**
-
 ### 📚 What’s this course about?
 
 Honestly? I don’t really know. 🤷‍♂️😂  
