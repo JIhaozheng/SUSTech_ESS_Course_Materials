@@ -1,11 +1,5 @@
 # 🪐 ESS210: Fundamentals of Planetary Science
 
-## 👨‍🏫 Course Overview
-
-**Instructor:** Prof. Yf Lin 👨‍🔬  
-**Email:** ✉️ **youknow**  
-**Office:** 🏢 College of Science, Room **he will tell you**
-
 ---
 
 ## 📚 What’s This Course About?
