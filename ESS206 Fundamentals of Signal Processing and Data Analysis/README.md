@@ -1,11 +1,5 @@
 # 📡 ESS206: Fundamentals of Signal Processing and Data Analysis 🎶📈
 
-## 👨‍🏫 Course Overview
-
-**Instructor:** Prof. P Han 👨‍🔬  
-**Email:** ✉️ **youknow**  
-**Office:** 🏢 College of Science, Room **he will tell you**
-
 ### 🎯 Main Focus: Signal Processing
 
 Although the course title mentions both *signal processing* and *data analysis* 🧠📉, it mainly focuses on **signal processing** 🔊📐.  
