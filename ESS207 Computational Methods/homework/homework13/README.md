@@ -1,0 +1,2 @@
+- 1D storage of a varying bandwidth matrix
+- Solve the linear sysyem using gauss-seidel interative formula
