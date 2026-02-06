@@ -2,9 +2,7 @@
 
 ### 📚 What’s this course about?
 
-Honestly? I don’t really know. 🤷‍♂️😂  
 The midterm and final are **open book/tests** 📖💻 — and yes, **ChatGPT is allowed** 🙌🧠  
-(Actually, I wrote this README with GPT’s help. Big brain energy 🧠⚡)
 
 So... yeah, I may have done a little *touching fish* 🐟🫣 during lectures.
 
@@ -24,8 +22,7 @@ But heads-up: Prof. Liu explains space phenomena using only basic physics 🧪�
 
 It’s a bit too *simple & shallow* for my taste 🥱  
 Also... this course throws **a LOT** of info at you 📡🌠💥  
-I can’t remember everything 🧠💔 (and honestly, I won’t try — it's open test, Internet will help 📲🌐).  
-Most of the time I’m like: "Yeah I’ve heard of it... but don’t ask me what it is." 🤯❓
+I can’t remember everything 🧠.  
 
 ---
 
@@ -39,9 +36,6 @@ Only **3 homework assignments** 📃✍️ — that’s it. 😮‍💨🫶
 | HW2        | 17.5      | 14.5625    |
 | HW3        | 12.5      | 11.875     |
 
-Too little? Maybe 😅  
-But also... **thank you, Prof.** 🙏🌟💐
-
 ---
 
 ## ⚔️ Exam Tips & Warnings 🚨
@@ -52,26 +46,13 @@ Well... the TA is graduated from **department of physics** 🧠📡 — and grad
 - Median: 78  
 - Average: 77.875  
 
-Still survivable tho 😤💪
-
 ---
 
 ### 🧨 Final Exam  
 **A total boss battle.** 😵‍💫💥  
 All open-ended questions 📝 — for the first 5, I was thinking clearly 🧠💡  
-Then suddenly? **PANIC MODE** 😱⏰  
+Then suddenly? 
 No time to think, just *type and pray* 🤖✍️🙏
-
-ChatGPT could’ve saved me… but guess what? **My Plus expired the day before** 😭💔  
-I *knew* GPT’s answer was wrong ❌🤖, but I couldn’t find the right slides 📂📉  
-So I just wrote *something*… anything… and hoped for mercy 🫠🛐
-
-By the end, I was finishing questions in like 10 minutes each ⌛💨  
-Eventually, I found a life-saving hack:  
-> “Hi GPT! Please summarize the key points in under 200 words.”  
-💡 This trick helped me fill in the blanks just in time 🧾⚡
-
-**Dear** Prof. Liu: Please don’t fail me. 🙇‍♂️🍵 
 
 ---
 
@@ -80,7 +61,5 @@ Eventually, I found a life-saving hack:
 Take it easy ✌️😌  
 Don’t stress too much 😅 — just surf the wave 🌊 of knowledge  
 Use GPT wisely 🤖🔍  
-And remember: **don’t let the space-tech gods humble you too hard** 👽🛸💫
 
-Good luck, spacemen 🚀🌍  
-Let’s hope we pass... 🤞🎓💀  
+Good luck 🚀🌍  
