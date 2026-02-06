@@ -4,9 +4,7 @@
 
 The midterm and final are **open book/tests** 📖💻 — and yes, **ChatGPT is allowed** 🙌🧠  
 
-So... yeah, I may have done a little *touching fish* 🐟🫣 during lectures.
-
-That said, Prof. Liu often shares some cool stories about **microsatellites** 🛰️ and his own research experience 🌌🔭.  
+That said, Prof. Liu often shares some stories about **microsatellites** 🛰️ and his own research experience 🌌🔭.  
 You can talk to him *anytime* — whether it’s questions about the course or just random science talk. 🗣️☕  
 He’s a **thoughtful**, **serious**, and **super approachable** professor 🧑‍🏫💬. Always happy to chat if you show genuine curiosity!
 
@@ -20,7 +18,7 @@ But heads-up: Prof. Liu explains space phenomena using only basic physics 🧪�
 ❌ No plasma physics  
 ✅ Just the fundamentals  
 
-It’s a bit too *simple & shallow* for my taste 🥱  
+It’s a bit too *simple & shallow* 🥱  
 Also... this course throws **a LOT** of info at you 📡🌠💥  
 I can’t remember everything 🧠.  
 
