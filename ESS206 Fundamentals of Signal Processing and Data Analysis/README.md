@@ -3,7 +3,6 @@
 ### 🎯 Main Focus: Signal Processing
 
 Although the course title mentions both *signal processing* and *data analysis* 🧠📉, it mainly focuses on **signal processing** 🔊📐.  
-In my opinion, **data analysis is more important** for us 🤷‍♂️💻 — but it’s only briefly mentioned and doesn’t appear much in the final exam 😤📄.
 
 ---
 
