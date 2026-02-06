@@ -34,7 +34,6 @@ There are **8 homework assignments** in total 📋✍️.
 ## 🎓 Exam Tips
 
 - The **final exam is almost entirely homework-based** 🔁📘.
-- **~10 hours of review** before the final should be enough.
 
 ---
 
