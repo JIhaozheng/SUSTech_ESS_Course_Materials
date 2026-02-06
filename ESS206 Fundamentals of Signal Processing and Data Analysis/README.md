@@ -13,7 +13,6 @@ I’ve prepared some handy materials to help with key concepts 📖🛠️:
 
 - [`From_Data_Fitting_to_Integral_Transforms.pdf`](https://github.com/JIhaozheng/SUSTech_ESS_Course_Materials/blob/main/ESS206%20Fundamentals%20of%20Signal%20Processing%20and%20Data%20Analysis/presentation/From_Data_Fitting_to_Integral_Transforms.pdf)  
 🧾 My $2nd$ presentation — explains **Laplace Transforms** ⚙️ and **Fourier Transforms** 🎵 in detail.  
-📄 I’ve also attached a **Chinese version** 🀄 for better understanding if needed!
 
 - [`Fundamentals_of_Signal_Processing_and_Data_Analysis_Homework_4.pdf`](https://github.com/JIhaozheng/SUSTech_ESS_Course_Materials/blob/main/ESS206%20Fundamentals%20of%20Signal%20Processing%20and%20Data%20Analysis/homework/Fundamentals_of_Signal_Processing_and_Data_Analysis_Homework_4.pdf)  
   📌 $3rd$ Section offers a step-by-step guide to the **Gibbs Phenomenon** 🎢.
@@ -36,8 +35,7 @@ There are **8 homework assignments** in total 📋✍️.
 ## 🎓 Exam Tips
 
 - The **final exam is almost entirely homework-based** 🔁📘.
-- If you’ve done the homework seriously, you're golden 💪💯.
-- Know **Calculus II**? Then **~10 hours of review** before the final should be enough 😌📚⏳ (yes, really).
+- **~10 hours of review** before the final should be enough.
 
 ---
 
@@ -46,4 +44,3 @@ There are **8 homework assignments** in total 📋✍️.
 This course is **easy to pass** ✅😎  
 But if you want to *really* understand signals and systems 🔍🧠, be ready to invest **a lot more time and effort** 💼📈.
 
-Good luck and may your signals always be smooth and noise-free! 📡✨📊
