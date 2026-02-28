@@ -20,7 +20,7 @@ For more detailed information, see `report.pdf`.
 | `experiment_dt.py` | Decision Tree |
 | `experiment_knn.py` | K-Nearest Neighbors (KNN) |
 | `experiment_mlp.py` | Multi-Layer Perceptron (MLP) |
-| `experiment_mlr.py` | Multinomial Logistic Regression (MLR) |
+| `experiment_mlr.py` | Multiclass Logistic Regression (MLR) |
 
 **Core Modules:**
 
@@ -28,7 +28,7 @@ For more detailed information, see `report.pdf`.
 |------|-------------|
 | `kd_tree.py` | KD-Tree data structure for efficient nearest neighbor search |
 | `knn_classifier.py` | KNN classifier implementation |
-| `logistic_regression.py` | Logistic regression model |
+| `logistic_regression.py` | Multiclass Logistic regression model |
 | `mlp_classifier.py` | Multi-layer perceptron classifier |
 | `metrics.py` | Evaluation metrics for model performance |
 | `recover_image_data.py` | Image reconstruction from sparse encoded data |
