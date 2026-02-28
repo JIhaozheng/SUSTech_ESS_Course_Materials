@@ -25,8 +25,3 @@
 - Geophysics Inverse Problem 🎥
 
 - 
-
-- 
-
-- 
-
