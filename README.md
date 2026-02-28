@@ -16,7 +16,7 @@
 
 📌 Coming soon:
   
-- Principles of seismology 📈 (organizing)
+- Principles of Seismology 📈 (organizing)
   
 - Applied Geophysics ⛏️ (organizing)
 
