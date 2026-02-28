@@ -1,6 +1,6 @@
 ✅ Uploaded:
 
-- Fundamentals of Signal Processing and Data Analysis 📈
+- Fundamentals of Signal Processing and Data Analysis 📱
 
 - Fundamentals of Space Science and Technology 🚀
 
@@ -8,14 +8,18 @@
 
 - Geophysical Field Trip 👷🏼‍♂
 
-📌 Coming soon:
-
-- Computional Methods 🖩
+- Computional Methods ✏
   
 - AI and Mechine Learning 🖧
-  
-- Principles of seismology 📈
-  
-- Applied Geophysics ⛏️
 
-- 
+---
+
+📌 Coming soon:
+  
+- Principles of seismology 📈 (organizing)
+  
+- Applied Geophysics ⛏️ (organizing)
+
+- Modern Signal Analysis and Data Processing 🖥️
+
+- Geophysics Inverse Problem 🎥
