@@ -17,11 +17,11 @@
 # Projects
 
 - **Project 1**: Use NumPy to implement multi-layer perceptron, Multiclass Logistic Regression, decision tree, and KNN for handwritten digit recognition
+  
+<img width="500" alt="MLP_BestModel_1000_correct_predictions" src="https://github.com/user-attachments/assets/e87ac787-2cab-40c6-9c58-5b966ae0448c" />
+
 
 <img width="500" alt="MLP_BestModel_1000_incorrect_predictions" src="https://github.com/user-attachments/assets/5cca2277-f9a1-4003-b030-636f6484e357" />
-
-
-<img width="500" alt="MLP_BestModel_1000_correct_predictions" src="https://github.com/user-attachments/assets/e87ac787-2cab-40c6-9c58-5b966ae0448c" />
 
 - **Project 2**: Use UCI household dataset to predict electricity consumption with PyTorch deep learning models
 
