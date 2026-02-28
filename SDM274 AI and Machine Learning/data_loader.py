@@ -6,11 +6,11 @@ import os
 
 os.makedirs("images/data_load", exist_ok=True)
 
-images_train_dir="C:\\Users\\20369\\Documents\\SUSTech\\05Programming\\AI and Mechine Learning\\Project1\\input\\train-images.idx3-ubyte"
-images_test_dir="C:\\Users\\20369\\Documents\\SUSTech\\05Programming\\AI and Mechine Learning\\Project1\\input\\t10k-images.idx3-ubyte"
+images_train_dir = "input/train-images.idx3-ubyte"
+images_test_dir = "input/t10k-images.idx3-ubyte"
 
-labels_train_dir="C:\\Users\\20369\\Documents\\SUSTech\\05Programming\\AI and Mechine Learning\\Project1\\input\\train-labels.idx1-ubyte"
-labels_test_dir="C:\\Users\\20369\\Documents\\SUSTech\\05Programming\\AI and Mechine Learning\\Project1\\input\\t10k-labels.idx1-ubyte"
+labels_train_dir = "input/train-labels.idx1-ubyte"
+labels_test_dir = "input/t10k-labels.idx1-ubyte"
 
 def read_image(dir):
     with open(dir,'rb') as f:
@@ -152,4 +152,5 @@ train_set=np.array(train_features)
 np.save('input/train_set.npy',train_set)
 np.save('input/train_label.npy',new_train_labels)
 np.save('input/test_set.npy',test_set)
+
 np.save('input/test_label.npy',new_test_labels)
