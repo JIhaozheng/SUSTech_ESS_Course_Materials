@@ -6,6 +6,8 @@ Use **Runge-Kutta method** to solve the **eikonal equation** in 2D and 3D, build
 
 <img width="500" alt="image2" src="https://github.com/user-attachments/assets/477c36b9-8912-4375-9365-190581bc67b1" />
 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/51d6f440-689c-4fe6-b3b8-994f6b635ade" />
+
 <img width="500" alt="image3" src="https://github.com/user-attachments/assets/05525c6e-9b5b-4626-b1ff-f1f90ebd6608" />
 
 # Homework Assignments
