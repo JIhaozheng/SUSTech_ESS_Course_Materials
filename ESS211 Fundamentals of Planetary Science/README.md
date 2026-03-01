@@ -1,66 +1,45 @@
-# 🪐 ESS210: Fundamentals of Planetary Science
+# Project
+
+**Presentation:** [**Seismic detection of the martian core**](https://www.science.org/doi/10.1126/science.abi7730)
+
+
+
+<img width="500" lt="image" src="https://github.com/user-attachments/assets/59a049ab-3904-4b88-b905-78c09f613746" />
 
 ---
 
-## 📚 What’s This Course About?
+# Homework Assignments
 
-If you want to dip your toes into **planetary science**, this course gives a wide overview. 🤲  
-You’ll touch on many topics: planet formation, planetary interiors, atmospheres, orbital dynamics...  
-No deep math, no hardcore physics — just big and fundamental concepts. 
+## Homework 1
+- Write an article about planetary science
 
-Compared to **space science** 🌌, this course is actually *easier to follow*, because each chapter deals with a different type of physical system and research method.  
+## Homework 2
 
----
+- **Derive Kepler's laws**
 
-## 🧠📚 Study Tips & Tricks
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/9d990c25-7593-42fe-bd79-749c3c9d84b8" />
 
-Prof. Lin has taught this course for many years and has a **mature teaching structure** — both in class and with homework.
+## Homework 3
 
-It’s a **great starter course** for planetary science:
-- Prof. Lin is serious about teaching and deeply values scientific thinking 🧪🧠  
-- He’ll emphasize concepts over memorization or formulas  
-- Sometimes the lectures can feel dry or hard to follow  
+- **About Planetary Interiors**
 
-🧘‍♂️ My advice:  
-Don’t stress trying to memorize. Instead, **grasp the big ideas**, and follow your interests.  
-Use your heart, not just your eyes. ❤️👁️
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/7ec03181-f927-45dd-a070-8ca12b68e02d" />
 
----
+## Homework 4
 
-## 📝 Homework Notes
+- **About Planetary Surface**
 
-There are only **6 homework assignments (2 after presentation)**, all open. 📝  
-You can find most answers directly in the slides, but they require careful thinking and formal formatting.
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/f41490be-50a1-4944-ba95-caf687a0896a" />
 
-Prof. Lin is kind in grading — small errors usually cost just 1 point. So stay relaxed, and aim high. 🌟
+## Homework 5
 
----
+- **About Planetary Atomsphere**
 
-## ⚔️ Project & Exam Tips🚨
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/8a875dbe-7b1e-404c-a29b-4af38c6f94e7" />
 
-There’s **no midterm test**, but instead:  
-A **mid-term presentation** based on a paper (usually from *Science* or *Nature*). 📄🎤
 
-You’ll choose from a list provided by Prof. Lin.  
-I picked:  
-🪐 *“Seismic Detection of the Martian Core”* — because I plan to study seismology. This presentation opened up a **whole new perspective** for me on how seismic methods apply beyond Earth.
+## Homework 6
 
-💬 My process:
-- Spent **a LOT of time** reading and trying to understand  
-- Wrote a detailed summary  
+- **About Dynamo Theory**
 
-Honestly? It was exhausting, but **totally worth it**.  
-If you're passionate about a topic, be ready to invest time and energy. 🔥⏳
-
-The final includes:
-- ✍️ **Short answer questions** covering basic concepts — no hot topics or curveballs,  — which means you should review everything on the slides, because anything could show up.
-- 🧮 **Calculation questions**, so be sure to master:
-  - **Hill sphere**
-  - **Roche limit**
-  - **Lagrangian points**
-  - **Hydrostatic equilibrium** 
-  - **Two-layer model** 
-  - **Gravitational potential (J₂ term)**
-  - **Thermal radiation**
-
-This exam is a good opportunity to **review and preview** the whole course.
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/a7b77ba6-e51c-439b-a55d-f7d22d515c4e" />
