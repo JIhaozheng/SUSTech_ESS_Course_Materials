@@ -12,7 +12,7 @@ Use **Runge-Kutta method** to solve the **eikonal equation** in 2D and 3D, build
 
 # Homework Assignments
 
-## 1. Compare Rounding Error and Truncation Error**
+## 1. Compare Rounding Error and Truncation Error
 
 <img width="300" alt="Relative Numerical Derivate Error" src="https://github.com/user-attachments/assets/017626c5-c48e-4de5-9e81-533ac32b924e" />
 
@@ -126,7 +126,9 @@ Solve tridiagonal system Ax=b
 
 **Tridiagonal** method
 
-<img width="200" alt="verification" src="https://github.com/user-attachments/assets/54fc910a-9ef7-4006-b9ce-0dfa645ce570" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/83550c9a-a80c-40df-856b-25d9fef0d6fd" />
+
+<img width="400" alt="verification" src="https://github.com/user-attachments/assets/54fc910a-9ef7-4006-b9ce-0dfa645ce570" />
 
 ## 15. Solve the eigenvector and eigenvalue using inverse iteration with shift**
 
