@@ -93,11 +93,11 @@ Comparison of different finite precision difference formulas
 
 ## 11. Find Root and Calculate Condition Number
 
-Fixed-point method 4x^2+y^2-4=0 ; x+y-sin(x-y)=0
+**Fixed-point** method 4x^2+y^2-4=0 ; x+y-sin(x-y)=0
 
-Matrix norms and condition numbers
+Matrix norms and **condition numbers**
 
-Gaussian Elimination
+**Gaussian Elimination**
 
 <img width="200" alt="11" src="https://github.com/user-attachments/assets/dac6daba-b25b-4c72-a9bd-1fbc05fdfb75" />
 
@@ -111,7 +111,7 @@ Gaussian Elimination
 
 1D storage of a varying bandwidth matrix
 
-Solve the linear system using Gauss-Seidel iterative formula
+Solve the linear system using **Gauss-Seidel** iterative formula
 
 <img width="200" alt="storge" src="https://github.com/user-attachments/assets/7b72291f-4508-4db5-a813-be4809c35d30" />
 
@@ -120,9 +120,9 @@ Solve the linear system using Gauss-Seidel iterative formula
 
 Solve tridiagonal system Ax=b
 
-Conjugate gradient method
+**Conjugate Gradient** method (**detaild proof**)
 
-Tridiagonal method
+**Tridiagonal** method
 
 <img width="200" alt="verification" src="https://github.com/user-attachments/assets/54fc910a-9ef7-4006-b9ce-0dfa645ce570" />
 
