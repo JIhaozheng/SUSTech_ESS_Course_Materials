@@ -1,63 +1,34 @@
-# 🌌 ESS210: Fundamentals of Space Science and Technology 🚀🛸
+# Midterm 
+- Median: 78  
+- Average: 77.875
 
-### 📚 What’s this course about?
-
-The midterm and final are **open book/tests** 📖💻 — and yes, **ChatGPT is allowed** 🙌🧠  
-
-That said, Prof. Liu often shares some stories about **microsatellites** 🛰️ and his own research experience 🌌🔭.  
-You can talk to him *anytime* — whether it’s questions about the course or just random science talk. 🗣️☕  
-He’s a **thoughtful**, **serious**, and **super approachable** professor 🧑‍🏫💬. Always happy to chat if you show genuine curiosity!
-
----
-
-## 🧠📚 Study Tips & Tricks
-
-Wanna *actually* learn something? 👉 Then **follow the lecture closely** 👂👀  
-But heads-up: Prof. Liu explains space phenomena using only basic physics 🧪🧲.  
-❌ No continuum mechanics  
-❌ No plasma physics  
-✅ Just the fundamentals  
-
-It’s a bit too *simple & shallow* 🥱  
-Also... this course throws **a LOT** of info at you 📡🌠💥  
-I can’t remember everything 🧠.  
-
----
-
-## 📝📊 Homework Notes
-
-Only **3 homework assignments** 📃✍️ — that’s it. 😮‍💨🫶
-
-| 📌 Homework | 📈 Median | 📉 Average |
+# Homework Assignment
+| Homework | Median | Average |
 |------------|-----------|------------|
 | HW1        | 12.5      | 13.125     |
 | HW2        | 17.5      | 14.5625    |
 | HW3        | 12.5      | 11.875     |
 
----
+## Homework 1
 
-## ⚔️ Exam Tips & Warnings 🚨
+ - Derive the Parker solar wind model and estimate the solar wind velocities and the angles between the solar wind magnetic field line and the planetary orbits
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/722626e3-f417-4633-b1cb-713c2b6b2075" />
+<img width="500" alt="homework1" src="https://github.com/user-attachments/assets/2e082d54-aa46-459c-b1f5-03685b9385f1" />
 
-### 🔥 Midterm  
-Open test = no worries, right? 😌📘  
-Well... the TA is graduated from **department of physics** 🧠📡 — and graded like a **dark souls boss** 💀🛡️  
-- Median: 78  
-- Average: 77.875  
 
----
+## Homework 2
 
-### 🧨 Final Exam  
-**A total boss battle.** 😵‍💫💥  
-All open-ended questions 📝 — for the first 5, I was thinking clearly 🧠💡  
-Then suddenly? 
-No time to think, just *type and pray* 🤖✍️🙏
+- Derive the density ratio across the shock
+<img width="360" alt="homework2" src="https://github.com/user-attachments/assets/9bc599e9-3c41-4d8a-a7af-f0d77d213ddf" />
+<img width="500" alt="homework2" src="https://github.com/user-attachments/assets/4d89a9df-f228-4699-b8ad-ad78e3ac9920" />
 
----
+## Homework 3
 
-## 💭 Final Thoughts
+- Estimate the Jovian magnetopause standoff distance and Derive Earth's magnetic field line
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/6cfd712c-73de-4141-9f14-2e69236a7cf6" />
+<img width="200" alt="method22" src="https://github.com/user-attachments/assets/ccf0dd7f-b3cc-42a3-a8cf-5512a7bc910d" />
 
-Take it easy ✌️😌  
-Don’t stress too much 😅 — just surf the wave 🌊 of knowledge  
-Use GPT wisely 🤖🔍  
 
-Good luck 🚀🌍  
+
+
+
