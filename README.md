@@ -10,7 +10,7 @@
 
 - Computional Methods ✏
   
-- AI and Mechine Learning 🖧
+- AI and Machine Learning 🖧
 
 ---
 
