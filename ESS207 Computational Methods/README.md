@@ -14,8 +14,8 @@ Use **Runge-Kutta method** to solve the **eikonal equation** in 2D and 3D, build
 
 <img width="300" alt="Relative Numerical Derivate Error" src="https://github.com/user-attachments/assets/017626c5-c48e-4de5-9e81-533ac32b924e" />
 
-## 2. Linear Interpolation
-     Quadratic Interpolation**
+## 2. Linear Interpolation and  Quadratic Interpolation
+    
      
 <img width="300" alt="Linear and Quadratic interpolation error surface at interval 1,5" src="https://github.com/user-attachments/assets/1940275f-31c3-470a-9692-2140d2e35115" />
 
