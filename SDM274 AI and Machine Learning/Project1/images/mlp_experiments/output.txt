@@ -1,0 +1,83 @@
+Training MLP with layers [112, 64, 10], epochs=100
+Test Accuracy: 24.63%, Training Time: 20.57s
+
+Training MLP with layers [112, 128, 10], epochs=100
+Test Accuracy: 18.66%, Training Time: 34.61s
+
+Training MLP with layers [112, 128, 64, 10], epochs=100
+Test Accuracy: 19.97%, Training Time: 46.08s
+
+Training MLP with layers [112, 64, 10], epochs=500
+Test Accuracy: 52.50%, Training Time: 116.47s
+
+Training MLP with layers [112, 128, 10], epochs=500
+Test Accuracy: 59.11%, Training Time: 145.86s
+
+Training MLP with layers [112, 128, 64, 10], epochs=500
+Test Accuracy: 59.90%, Training Time: 217.73s
+
+Training MLP with layers [112, 64, 10], epochs=1000
+Test Accuracy: 67.64%, Training Time: 231.25s
+
+Training MLP with layers [112, 128, 10], epochs=1000
+Test Accuracy: 71.63%, Training Time: 321.70s
+
+Training MLP with layers [112, 128, 64, 10], epochs=1000
+Test Accuracy: 72.02%, Training Time: 457.29s
+
+Best model: layers=[112, 128, 64, 10], epochs=1000, accuracy=72.02%
+
+--- Evaluation Metrics ---
+Overall Accuracy: 72.02%
+
+Per-class Metrics:
+  Class 0:
+    Precision: 0.8414
+    Recall:    0.9146
+    F1-score:  0.8765
+  Class 1:
+    Precision: 0.8572
+    Recall:    0.8806
+    F1-score:  0.8688
+  Class 2:
+    Precision: 0.6574
+    Recall:    0.6917
+    F1-score:  0.6741
+  Class 3:
+    Precision: 0.5782
+    Recall:    0.5875
+    F1-score:  0.5828
+  Class 4:
+    Precision: 0.7258
+    Recall:    0.7971
+    F1-score:  0.7598
+  Class 5:
+    Precision: 0.5342
+    Recall:    0.2043
+    F1-score:  0.2955
+  Class 6:
+    Precision: 0.8529
+    Recall:    0.9069
+    F1-score:  0.8791
+  Class 7:
+    Precision: 0.6978
+    Recall:    0.7423
+    F1-score:  0.7194
+  Class 8:
+    Precision: 0.6759
+    Recall:    0.7136
+    F1-score:  0.6942
+  Class 9:
+    Precision: 0.6415
+    Recall:    0.7019
+    F1-score:  0.6703
+
+Macro-averaged F1-score: 0.7021
+Weighted-average F1-score: 0.7073
+Confusion Matrix saved to: images/mlp_experiments\MLP_BestModel_1000_confusion_matrix.png
+
+--- Displaying 8 Correctly Predicted Images ---
+Correct predictions images saved to: images/mlp_experiments\MLP_BestModel_1000_correct_predictions.png
+
+--- Displaying 8 Incorrectly Predicted Images ---
+Incorrect predictions images saved to: images/mlp_experiments\MLP_BestModel_1000_incorrect_predictions.png
