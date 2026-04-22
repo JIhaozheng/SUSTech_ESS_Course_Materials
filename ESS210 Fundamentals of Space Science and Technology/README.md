@@ -2,9 +2,9 @@
 - **Derive the Parker solar wind**
 - **Estimate the solar wind parameters using Parker model**
   
-<img width="400" height="941" alt="homework1" src="https://github.com/user-attachments/assets/3cc48636-1250-49b0-9b36-19d7db90e092" />
+<img width="400" alt="homework1" src="https://github.com/user-attachments/assets/3cc48636-1250-49b0-9b36-19d7db90e092" />
 
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/07a9c8ef-2355-48a7-a803-fcb6fa867807" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/07a9c8ef-2355-48a7-a803-fcb6fa867807" />
 
 # Homework 2
 - Derive the Density Ratio actoss the Shock and show supersonic flow becomes subsonic across the shock
