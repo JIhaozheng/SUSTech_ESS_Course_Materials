@@ -1,3 +1,9 @@
+| Homework | Median | Average |
+|----------|--------|---------|
+| HW1      | 12.5   | 13.125  |
+| HW2      | 17.5   | 14.5625 |
+| HW3      | 12.5   | 11.875  |
+
 # Homework 1
 - **Derive the Parker solar wind**
 - **Estimate the solar wind parameters using Parker model**
