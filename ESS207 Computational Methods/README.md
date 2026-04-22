@@ -2,11 +2,11 @@
 
 Use Runge-Kutta method to solve the eikonal equation in 2D and 3D, build testboard, and reproduce phenomena such as shadow zone and triplication.
 
-<img width="500" height="1062" alt="Screenshot 2026-03-01 005622" src="https://github.com/user-attachments/assets/54ed6065-0663-4f91-8d49-3f18bdfa464c" />
+<img width="500" alt="Screenshot 2026-03-01 005622" src="https://github.com/user-attachments/assets/54ed6065-0663-4f91-8d49-3f18bdfa464c" />
 
-<img width="500" height="1065" alt="image2" src="https://github.com/user-attachments/assets/77318f0f-a29c-45b2-a8bd-7edd6b9e4985" />
+<img width="500" alt="image2" src="https://github.com/user-attachments/assets/77318f0f-a29c-45b2-a8bd-7edd6b9e4985" />
 
-<img width="500" height="1060" alt="image3" src="https://github.com/user-attachments/assets/5867ea40-163b-4ae4-a9ad-f1caa45c7f85" />
+<img width="500" alt="image3" src="https://github.com/user-attachments/assets/5867ea40-163b-4ae4-a9ad-f1caa45c7f85" />
 
 ---
 # Homework Assignments
