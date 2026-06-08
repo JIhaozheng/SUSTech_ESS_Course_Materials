@@ -5,12 +5,13 @@
 - Geophysical Field Trips  
 - Computational Methods  
 - AI and Machine Learning  
+- Modern Signal Analysis and Data Processing
+- Geophysics Inverse Problem
 
 ---
 
 # Organizing
-- Modern Signal Analysis and Data Processing
-- Geophysics Inverse Problem
+
 - Quantum Physics
 
 ---
