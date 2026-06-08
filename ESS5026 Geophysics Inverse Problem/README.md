@@ -22,4 +22,6 @@ Invert model parameters (a, b) for function y(x) = e^(-ax)sin(bx)
 <img height="220" alt="image" src="https://github.com/user-attachments/assets/ef59457e-8fa6-4f6a-ba94-4edd6bfa5fe5" />
 
 - Optimization method: Polak-Ribière Conjugate Gradient (CG)
+- 
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/343475e8-e8ff-4451-9f20-b3c29fe2d68b" />
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/8cf42677-c0cd-48da-81ef-769618e7806b" />
